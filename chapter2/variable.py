@@ -1,0 +1,1 @@
+# variable:variable is a name given to memorylocaton in program
